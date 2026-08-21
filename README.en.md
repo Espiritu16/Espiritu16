@@ -40,12 +40,6 @@ I structure this approach with specialized agents and skills for each stage of t
 - Automation Workflows
 - Cloud-Deployed Applications
 
-## GitHub Activity
-
-[![Contribution stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Espiritu16&theme=github)](https://github.com/Espiritu16)
-
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Espiritu16&bg_color=F5F6F8&color=01122E&line=3E85FA&point=3E85FA&area=true&area_color=DCE8FC&hide_border=true&custom_title=Contributions%20in%20the%20last%20year)](https://github.com/Espiritu16)
-
 ## Connect
 
 - **LinkedIn:** [kevin-espiritu](https://www.linkedin.com/in/kevin-espiritu/)

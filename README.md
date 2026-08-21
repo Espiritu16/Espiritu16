@@ -40,12 +40,6 @@ Estructuro este enfoque con agentes y skills especializados para cada etapa del 
 - Flujos de automatización
 - Aplicaciones desplegadas en la nube
 
-## Actividad en GitHub
-
-[![Estadísticas de contribución](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Espiritu16&theme=github)](https://github.com/Espiritu16)
-
-[![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=Espiritu16&bg_color=F5F6F8&color=01122E&line=3E85FA&point=3E85FA&area=true&area_color=DCE8FC&hide_border=true&custom_title=Contribuciones%20en%20el%20último%20año)](https://github.com/Espiritu16)
-
 ## Contacto
 
 - **LinkedIn:** [kevin-espiritu](https://www.linkedin.com/in/kevin-espiritu/)
