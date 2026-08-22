@@ -5,15 +5,15 @@
 
 ## Sobre mí
 
-Soy **Full Stack Developer** y estudiante de Ingeniería de Sistemas, enfocado en desarrollar soluciones web prácticas, escalables y mantenibles.
+Soy **Full Stack Developer** con experiencia en el desarrollo de aplicaciones web, APIs REST, bases de datos, integraciones y despliegue en la nube. Actualmente curso el VIII ciclo de Ingeniería de Sistemas e Informática en la Universidad Tecnológica del Perú y pertenezco al Tercio Superior.
 
-Trabajo principalmente en el desarrollo de **aplicaciones web, APIs REST e integraciones con bases de datos**, utilizando tecnologías como **Spring Boot, Angular, React y PostgreSQL**, además de servicios de **AWS** para despliegue e infraestructura en la nube.
+He participado en proyectos empresariales, académicos y personales, trabajando principalmente con **Spring Boot, Angular, React, MySQL y PostgreSQL**, además de servicios de **AWS** como EC2, RDS y S3. Aplico testing automatizado con JUnit y Mockito, flujos CI/CD con GitHub Actions y despliegue en contenedores Docker.
 
-He participado en proyectos empresariales, académicos y personales, desarrollando soluciones para gestión de inventario y ventas, automatización de procesos, integración de servicios externos y facturación electrónica.
+Trabajo con un enfoque **AI-Native**, integrando **OpenAI Codex** y **Claude Code**, junto con agentes y skills especializados, en distintas etapas del ciclo de desarrollo: planificación, arquitectura, implementación, documentación, revisión de código, seguridad, QA y pruebas. Estas herramientas forman parte de mi flujo de ingeniería, manteniendo siempre la revisión y validación técnica de los resultados.
 
-Complemento mi flujo de trabajo con un enfoque **AI-Native**, utilizando herramientas como **OpenAI Codex y Claude Code** en procesos de planificación, implementación, documentación, revisión de código, QA y pruebas, manteniendo la revisión y validación técnica de los resultados.
+También cuento con experiencia en integración de servicios externos —pasarelas de pago como Culqi y facturación electrónica validada para SUNAT— y en automatización de procesos mediante APIs REST, aplicando buenas prácticas para desarrollar soluciones escalables y mantenibles.
 
-Actualmente busco seguir desarrollándome profesionalmente en **Full Stack Development e Ingeniería de Software**, aplicando un enfoque AI-Native durante el ciclo de desarrollo.
+Actualmente busco oportunidades para seguir creciendo profesionalmente en **Full Stack Development e Ingeniería de Software**, aportando experiencia técnica y un enfoque AI-Native aplicado al desarrollo.
 
 ## Stack principal
 
@@ -29,15 +29,14 @@ Actualmente busco seguir desarrollándome profesionalmente en **Full Stack Devel
 
 ## Desarrollo AI-Native
 
-Estructuro este enfoque con agentes y skills especializados para cada etapa del ciclo, incluyendo decisiones de arquitectura y análisis de seguridad.
+Estas herramientas operan mediante **agentes y skills especializados**, cada uno enfocado en una etapa concreta del ciclo. Forman parte estructurada de mi proceso de ingeniería y complementan —no reemplazan— el criterio técnico: el resultado siempre pasa por mi revisión y validación.
 
 ## Lo que construyo
 
-- Aplicaciones web full stack
-- Servicios backend y APIs REST
-- Sistemas basados en bases de datos
-- Integraciones con APIs de terceros
-- Flujos de automatización
+- Aplicaciones web Full Stack
+- APIs REST e integraciones
+- Sistemas de gestión empresarial
+- Automatización de procesos
 - Aplicaciones desplegadas en la nube
 
 ## Contacto

@@ -5,15 +5,15 @@
 
 ## About Me
 
-I'm a **Full Stack Developer** and Systems Engineering student focused on building practical, scalable, and maintainable web solutions.
+I'm a **Full Stack Developer** with experience in web applications, REST APIs, databases, integrations, and cloud deployment. I'm currently in my eighth semester of Systems and Computer Engineering at Universidad Tecnológica del Perú, ranked in the top third of my class.
 
-I work primarily on **web applications, REST APIs, and database integrations**, using technologies such as **Spring Boot, Angular, React, and PostgreSQL**, along with **AWS** services for cloud deployment and infrastructure.
+I've contributed to business, academic, and personal projects, working mainly with **Spring Boot, Angular, React, MySQL, and PostgreSQL**, along with **AWS** services such as EC2, RDS, and S3. I apply automated testing with JUnit and Mockito, CI/CD pipelines with GitHub Actions, and Docker-based deployments.
 
-I have taken part in business, academic, and personal projects, building solutions for inventory and sales management, process automation, third-party service integration, and electronic invoicing.
+I follow an **AI-Native** approach, integrating **OpenAI Codex** and **Claude Code** together with specialized agents and skills across the development cycle: planning, architecture, implementation, documentation, code review, security, QA, and testing. These tools are part of my engineering workflow, and the results always go through technical review and validation.
 
-I complement my workflow with an **AI-Native** approach, using tools such as **OpenAI Codex and Claude Code** across planning, implementation, documentation, code review, QA, and testing, while maintaining technical review and validation of the results.
+I also have experience integrating third-party services — payment gateways such as Culqi and SUNAT-validated electronic invoicing — and automating processes through REST APIs, applying good practices to build scalable and maintainable solutions.
 
-I'm currently looking to keep growing professionally in **Full Stack Development and Software Engineering**, applying an AI-Native approach throughout the development cycle.
+I'm currently looking for opportunities to keep growing professionally in **Full Stack Development and Software Engineering**, bringing both technical experience and an AI-Native approach to development.
 
 ## Core Stack
 
@@ -29,18 +29,17 @@ I'm currently looking to keep growing professionally in **Full Stack Development
 
 ## AI-Native Development
 
-I structure this approach with specialized agents and skills for each stage of the cycle, including architecture decisions and security analysis.
+These tools run through **specialized agents and skills**, each focused on a specific stage of the cycle. They are a structured part of my engineering process and complement — rather than replace — technical judgment: every result goes through my own review and validation.
 
 ## What I Build
 
 - Full Stack Web Applications
-- Backend Services & REST APIs
-- Database-Driven Systems
-- Third-Party API Integrations
-- Automation Workflows
+- REST APIs and Integrations
+- Business Management Systems
+- Process Automation
 - Cloud-Deployed Applications
 
-## Connect
+## Contact
 
 - **LinkedIn:** [kevin-espiritu](https://www.linkedin.com/in/kevin-espiritu/)
 - **Email:** [kevinespiritu16@gmail.com](mailto:kevinespiritu16@gmail.com)
