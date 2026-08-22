@@ -5,15 +5,11 @@
 
 ## About Me
 
-I'm a **Full Stack Developer** with experience in web applications, REST APIs, databases, integrations, and cloud deployment. I'm currently in my eighth semester of Systems and Computer Engineering at Universidad Tecnológica del Perú, ranked in the top third of my class.
+**Full Stack Developer** with one year of experience building web applications and REST APIs, using **Spring Boot** on the backend and **Angular** and **React** on the frontend. Eighth-semester Systems and Computer Engineering student at Universidad Tecnológica del Perú (top third of my class).
 
-I've contributed to business, academic, and personal projects, working mainly with **Spring Boot, Angular, React, MySQL, and PostgreSQL**, along with **AWS** services such as EC2, RDS, and S3. I apply automated testing with JUnit and Mockito, CI/CD pipelines with GitHub Actions, and Docker-based deployments.
+I work with **PostgreSQL** and **MySQL**, automated testing (JUnit, Mockito), CI/CD with GitHub Actions, Docker, and deployment on **AWS** (EC2, RDS, S3). I've integrated payment gateways (Culqi) and SUNAT-validated electronic invoicing.
 
-I follow an **AI-Native** approach, integrating **OpenAI Codex** and **Claude Code** together with specialized agents and skills across the development cycle: planning, architecture, implementation, documentation, code review, security, QA, and testing. These tools are part of my engineering workflow, and the results always go through technical review and validation.
-
-I also have experience integrating third-party services — payment gateways such as Culqi and SUNAT-validated electronic invoicing — and automating processes through REST APIs, applying good practices to build scalable and maintainable solutions.
-
-I'm currently looking for opportunities to keep growing professionally in **Full Stack Development and Software Engineering**, bringing both technical experience and an AI-Native approach to development.
+I follow an **AI-Native** approach, integrating **OpenAI Codex** and **Claude Code** into the development cycle, always with technical review and validation of the results. I'm looking to grow in **Full Stack Development and Software Engineering**.
 
 ## Core Stack
 
@@ -29,7 +25,7 @@ I'm currently looking for opportunities to keep growing professionally in **Full
 
 ## AI-Native Development
 
-These tools run through **specialized agents and skills**, each focused on a specific stage of the cycle. They are a structured part of my engineering process and complement — rather than replace — technical judgment: every result goes through my own review and validation.
+I work with **specialized agents and skills** per stage: planning, architecture, implementation, documentation, code review, security, QA, and testing. AI is part of the engineering process, not a replacement for it.
 
 ## What I Build
 
