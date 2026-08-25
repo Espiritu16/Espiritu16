@@ -13,6 +13,7 @@ I follow an **AI-Native** approach, integrating **OpenAI Codex** and **Claude Co
 
 ## Core Stack
 
+<div align="center">
 <table>
   <tr>
     <td align="center" width="115"><img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot"><br><sub><b>Spring Boot</b></sub></td>
@@ -22,6 +23,7 @@ I follow an **AI-Native** approach, integrating **OpenAI Codex** and **Claude Co
     <td align="center" width="115"><img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS"><br><sub><b>AWS</b></sub></td>
   </tr>
 </table>
+</div>
 
 ## AI-Native Development
 
@@ -38,4 +40,6 @@ I work with **specialized agents and skills** per stage: planning, architecture,
 ## Contact
 
 - **LinkedIn:** [kevin-espiritu](https://www.linkedin.com/in/kevin-espiritu/)
-- **Email:** [kevinespiritu16@gmail.com](mailto:kevinespiritu16@gmail.com)
+- **Email:** [kevin@kevin-espiritu.com](mailto:kevin@kevin-espiritu.com)
+
+![Profile views](https://komarev.com/ghpvc/?username=Espiritu16&color=3E85FA&style=flat-square&label=Profile+views)

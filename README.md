@@ -13,6 +13,7 @@ Desarrollo con un enfoque **AI-Native**, integrando **OpenAI Codex** y **Claude 
 
 ## Stack principal
 
+<div align="center">
 <table>
   <tr>
     <td align="center" width="115"><img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot"><br><sub><b>Spring Boot</b></sub></td>
@@ -22,6 +23,7 @@ Desarrollo con un enfoque **AI-Native**, integrando **OpenAI Codex** y **Claude 
     <td align="center" width="115"><img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS"><br><sub><b>AWS</b></sub></td>
   </tr>
 </table>
+</div>
 
 ## Desarrollo AI-Native
 
@@ -38,4 +40,6 @@ Trabajo con **agentes y skills especializados** por etapa: planificación, arqui
 ## Contacto
 
 - **LinkedIn:** [kevin-espiritu](https://www.linkedin.com/in/kevin-espiritu/)
-- **Email:** [kevinespiritu16@gmail.com](mailto:kevinespiritu16@gmail.com)
+- **Email:** [kevin@kevin-espiritu.com](mailto:kevin@kevin-espiritu.com)
+
+![Visitas al perfil](https://komarev.com/ghpvc/?username=Espiritu16&color=3E85FA&style=flat-square&label=Visitas+al+perfil)
