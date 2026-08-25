@@ -42,4 +42,4 @@ I work with **specialized agents and skills** per stage: planning, architecture,
 - **LinkedIn:** [kevin-espiritu](https://www.linkedin.com/in/kevin-espiritu/)
 - **Email:** [kevin@kevin-espiritu.com](mailto:kevin@kevin-espiritu.com)
 
-![Profile views](https://komarev.com/ghpvc/?username=Espiritu16&color=3E85FA&style=flat-square&label=Profile+views)
+[![Profile views](https://komarev.com/ghpvc/?username=Espiritu16&color=3E85FA&style=flat-square&label=Profile+views)](https://github.com/Espiritu16)

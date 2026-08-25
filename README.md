@@ -42,4 +42,4 @@ Trabajo con **agentes y skills especializados** por etapa: planificación, arqui
 - **LinkedIn:** [kevin-espiritu](https://www.linkedin.com/in/kevin-espiritu/)
 - **Email:** [kevin@kevin-espiritu.com](mailto:kevin@kevin-espiritu.com)
 
-![Visitas al perfil](https://komarev.com/ghpvc/?username=Espiritu16&color=3E85FA&style=flat-square&label=Visitas+al+perfil)
+[![Visitas al perfil](https://komarev.com/ghpvc/?username=Espiritu16&color=3E85FA&style=flat-square&label=Visitas+al+perfil)](https://github.com/Espiritu16)
