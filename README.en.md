@@ -1,17 +1,19 @@
-![Kevin Octavio Espiritu Castillo — Full Stack Developer | AI-Native](assets/profile-banner.png)
+![Kevin Octavio Espiritu Castillo — Full Stack Developer](assets/profile-banner.png)
 
 [![Español](https://img.shields.io/badge/Español-8A93A6?style=for-the-badge&logoColor=white)](https://github.com/Espiritu16/Espiritu16/blob/main/README.md)
 [![English](https://img.shields.io/badge/English-3E85FA?style=for-the-badge&logoColor=white)](https://github.com/Espiritu16/Espiritu16/blob/main/README.en.md)
 
-## About Me
+## About me
 
-**Full Stack Developer** with one year of experience building web applications and REST APIs, using **Spring Boot** on the backend and **Angular** and **React** on the frontend. Eighth-semester Systems and Computer Engineering student at Universidad Tecnológica del Perú (top third of my class).
+Full Stack Developer. I build web applications and REST APIs with **Spring Boot**, **Angular** and **React**, on **PostgreSQL** or **MySQL**, and deploy them to **AWS** with Docker and CI/CD.
 
-I work with **PostgreSQL** and **MySQL**, automated testing (JUnit, Mockito), CI/CD with GitHub Actions, Docker, and deployment on **AWS** (EC2, RDS, S3). I've integrated payment gateways (Culqi) and SUNAT-validated electronic invoicing.
+Most of my work sits in the integrations a business cannot afford to have fail: online payments with **Culqi** and electronic invoicing validated by **SUNAT** through Nubefact. Connecting the API is the easy part. The hard part is keeping the sale on record and getting the invoice issued when the provider returns an error.
 
-I follow an **AI-Native** approach, integrating **OpenAI Codex** and **Claude Code** into the development cycle, always with technical review and validation of the results. I'm looking to grow in **Full Stack Development and Software Engineering**.
+I am in my eighth semester of Systems and Computer Engineering at UTP, in the top third of my class and on an academic excellence scholarship.
 
-## Core Stack
+**Every system has a write-up with the technical decision behind it and a live demo: [kevin-espiritu.com](https://kevin-espiritu.com)**
+
+## Core stack
 
 <div align="center">
 <table>
@@ -25,21 +27,26 @@ I follow an **AI-Native** approach, integrating **OpenAI Codex** and **Claude Co
 </table>
 </div>
 
-## AI-Native Development
+## Systems in use
 
-I work with **specialized agents and skills** per stage: planning, architecture, implementation, documentation, code review, security, QA, and testing. AI is part of the engineering process, not a replacement for it.
+| System | Stack | Demo |
+| --- | --- | --- |
+| Sports court booking with online payments | Laravel · MySQL · Culqi | [Open](https://canchas.kevin-espiritu.com) |
+| Internal ERP with electronic invoicing | Spring Boot · MySQL · Nubefact | Private |
+| Legal case management | React · TypeScript · Supabase | [Open](https://legal.kevin-espiritu.com) |
+| Site for a cosmetic surgery practice | Astro · TypeScript | [Open](https://clinica.kevin-espiritu.com) |
+| E-commerce with geofenced delivery coverage | Angular · TypeScript · Leaflet | [Open](https://bambino.kevin-espiritu.com) |
+| Inventory and commercial management system | Angular · TypeScript · Spring Boot | [Open](https://titishop.kevin-espiritu.com) |
+| Water incident reporting platform | Angular · TypeScript · Leaflet | [Open](https://aquacomunidad.kevin-espiritu.com) |
 
-## What I Build
+## Agent-assisted development
 
-- Full Stack Web Applications
-- REST APIs and Integrations
-- Business Management Systems
-- Process Automation
-- Cloud-Deployed Applications
+I use **Claude Code** and **OpenAI Codex** inside the implementation and review cycle, with agents and skills per stage: planning, architecture, implementation, documentation, code review, security and QA.
+
+Tests gate the deployment: if one fails, the system in production stays as it was. AI is part of the engineering process, not a replacement for it.
 
 ## Contact
 
+- **Portfolio:** [kevin-espiritu.com](https://kevin-espiritu.com)
 - **LinkedIn:** [kevin-espiritu](https://www.linkedin.com/in/kevin-espiritu/)
 - **Email:** [kevin@kevin-espiritu.com](mailto:kevin@kevin-espiritu.com)
-
-[![Profile views](https://komarev.com/ghpvc/?username=Espiritu16&color=3E85FA&style=flat-square&label=Profile+views)](https://github.com/Espiritu16)
