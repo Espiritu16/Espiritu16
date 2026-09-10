@@ -29,8 +29,10 @@ I am in my eighth semester of Systems and Computer Engineering at UTP, in the to
 
 ## Systems in use
 
+<div align="center">
+
 | System | Stack | Demo |
-| --- | --- | --- |
+| :--- | :---: | :---: |
 | Sports court booking with online payments | Laravel · MySQL · Culqi | [Open](https://canchas.kevin-espiritu.com) |
 | Internal ERP with electronic invoicing | Spring Boot · MySQL · Nubefact | Private |
 | Legal case management | React · TypeScript · Supabase | [Open](https://legal.kevin-espiritu.com) |
@@ -38,6 +40,8 @@ I am in my eighth semester of Systems and Computer Engineering at UTP, in the to
 | E-commerce with geofenced delivery coverage | Angular · TypeScript · Leaflet | [Open](https://bambino.kevin-espiritu.com) |
 | Inventory and commercial management system | Angular · TypeScript · Spring Boot | [Open](https://titishop.kevin-espiritu.com) |
 | Water incident reporting platform | Angular · TypeScript · Leaflet | [Open](https://aquacomunidad.kevin-espiritu.com) |
+
+</div>
 
 ## Agent-assisted development
 
