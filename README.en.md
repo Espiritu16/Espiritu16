@@ -27,7 +27,7 @@ I am in my eighth semester of Systems and Computer Engineering at UTP, in the to
 </table>
 </div>
 
-## Systems in use
+## In production
 
 <div align="center">
 
@@ -37,6 +37,17 @@ I am in my eighth semester of Systems and Computer Engineering at UTP, in the to
 | Internal ERP with electronic invoicing | Spring Boot · MySQL · Nubefact | Private |
 | Legal case management | React · TypeScript · Supabase | [Open](https://legal.kevin-espiritu.com) |
 | Site for a cosmetic surgery practice | Astro · TypeScript | [Open](https://clinica.kevin-espiritu.com) |
+
+</div>
+
+## University projects
+
+From my Systems Engineering degree at UTP, built in teams. What is published is the demo.
+
+<div align="center">
+
+| System | Stack | Demo |
+| :--- | :---: | :---: |
 | E-commerce with geofenced delivery coverage | Angular · TypeScript · Leaflet | [Open](https://bambino.kevin-espiritu.com) |
 | Inventory and commercial management system | Angular · TypeScript · Spring Boot | [Open](https://titishop.kevin-espiritu.com) |
 | Water incident reporting platform | Angular · TypeScript · Leaflet | [Open](https://aquacomunidad.kevin-espiritu.com) |

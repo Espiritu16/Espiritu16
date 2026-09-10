@@ -27,7 +27,7 @@ Curso el VIII ciclo de Ingeniería de Sistemas e Informática en la UTP, en terc
 </table>
 </div>
 
-## Sistemas en uso
+## En producción
 
 <div align="center">
 
@@ -37,6 +37,17 @@ Curso el VIII ciclo de Ingeniería de Sistemas e Informática en la UTP, en terc
 | ERP interno con facturación electrónica | Spring Boot · MySQL · Nubefact | Privado |
 | Gestión de casos jurídicos | React · TypeScript · Supabase | [Ver](https://legal.kevin-espiritu.com) |
 | Sitio para una consulta de cirugía estética | Astro · TypeScript | [Ver](https://clinica.kevin-espiritu.com) |
+
+</div>
+
+## Proyectos académicos
+
+De la carrera de Ingeniería de Sistemas en la UTP, en equipo. Lo publicado es la demo.
+
+<div align="center">
+
+| Sistema | Stack | Demo |
+| :--- | :---: | :---: |
 | E-commerce con cobertura de delivery georreferenciada | Angular · TypeScript · Leaflet | [Ver](https://bambino.kevin-espiritu.com) |
 | Sistema de inventario y gestión comercial | Angular · TypeScript · Spring Boot | [Ver](https://titishop.kevin-espiritu.com) |
 | Plataforma de incidencias de agua | Angular · TypeScript · Leaflet | [Ver](https://aquacomunidad.kevin-espiritu.com) |
