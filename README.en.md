@@ -33,7 +33,7 @@ I am in my eighth semester of Systems and Computer Engineering at UTP, in the to
 
 | System | Stack | Demo |
 | :--- | :---: | :---: |
-| Sports court booking with online payments | Laravel · MySQL · Culqi | [Open](https://canchas.kevin-espiritu.com) |
+| Sports court booking with online payments | React · Supabase · Culqi | [Open](https://canchas.kevin-espiritu.com) |
 | Internal ERP with electronic invoicing | Spring Boot · MySQL · Nubefact | Private |
 | Legal case management | React · TypeScript · Supabase | [Open](https://legal.kevin-espiritu.com) |
 | Site for a cosmetic surgery practice | Astro · TypeScript | [Open](https://clinica.kevin-espiritu.com) |
@@ -42,15 +42,15 @@ I am in my eighth semester of Systems and Computer Engineering at UTP, in the to
 
 ## University projects
 
-From my Systems Engineering degree at UTP, built in teams. What is published is the demo.
+From my Systems Engineering degree at UTP, built in teams. Each one has its own Spring Boot REST API; what is published here is the frontend with sample data, no backend running.
 
 <div align="center">
 
 | System | Stack | Demo |
 | :--- | :---: | :---: |
-| E-commerce with geofenced delivery coverage | Angular · TypeScript · Leaflet | [Open](https://bambino.kevin-espiritu.com) |
-| Inventory and commercial management system | Angular · TypeScript · Spring Boot | [Open](https://titishop.kevin-espiritu.com) |
-| Water incident reporting platform | Angular · TypeScript · Leaflet | [Open](https://aquacomunidad.kevin-espiritu.com) |
+| E-commerce with geofenced delivery coverage | Angular · Spring Boot · Leaflet | [Open](https://bambino.kevin-espiritu.com) |
+| Inventory and commercial management system | Angular · Spring Boot · MySQL | [Open](https://titishop.kevin-espiritu.com) |
+| Water incident reporting platform | Angular · Spring Boot · Leaflet | [Open](https://aquacomunidad.kevin-espiritu.com) |
 
 </div>
 

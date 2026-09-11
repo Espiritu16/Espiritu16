@@ -33,7 +33,7 @@ Curso el VIII ciclo de Ingeniería de Sistemas e Informática en la UTP, en terc
 
 | Sistema | Stack | Demo |
 | :--- | :---: | :---: |
-| Reservas de canchas con pagos en línea | Laravel · MySQL · Culqi | [Ver](https://canchas.kevin-espiritu.com) |
+| Reservas de canchas con pagos en línea | React · Supabase · Culqi | [Ver](https://canchas.kevin-espiritu.com) |
 | ERP interno con facturación electrónica | Spring Boot · MySQL · Nubefact | Privado |
 | Gestión de casos jurídicos | React · TypeScript · Supabase | [Ver](https://legal.kevin-espiritu.com) |
 | Sitio para una consulta de cirugía estética | Astro · TypeScript | [Ver](https://clinica.kevin-espiritu.com) |
@@ -42,15 +42,15 @@ Curso el VIII ciclo de Ingeniería de Sistemas e Informática en la UTP, en terc
 
 ## Proyectos académicos
 
-De la carrera de Ingeniería de Sistemas en la UTP, en equipo. Lo publicado es la demo.
+De la carrera de Ingeniería de Sistemas en la UTP, en equipo. Cada uno tiene su API REST en Spring Boot; lo publicado aquí es el frontend con datos de ejemplo, sin backend encendido.
 
 <div align="center">
 
 | Sistema | Stack | Demo |
 | :--- | :---: | :---: |
-| E-commerce con cobertura de delivery georreferenciada | Angular · TypeScript · Leaflet | [Ver](https://bambino.kevin-espiritu.com) |
-| Sistema de inventario y gestión comercial | Angular · TypeScript · Spring Boot | [Ver](https://titishop.kevin-espiritu.com) |
-| Plataforma de incidencias de agua | Angular · TypeScript · Leaflet | [Ver](https://aquacomunidad.kevin-espiritu.com) |
+| E-commerce con cobertura de delivery georreferenciada | Angular · Spring Boot · Leaflet | [Ver](https://bambino.kevin-espiritu.com) |
+| Sistema de inventario y gestión comercial | Angular · Spring Boot · MySQL | [Ver](https://titishop.kevin-espiritu.com) |
+| Plataforma de incidencias de agua | Angular · Spring Boot · Leaflet | [Ver](https://aquacomunidad.kevin-espiritu.com) |
 
 </div>
 
