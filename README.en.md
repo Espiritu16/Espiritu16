@@ -1,7 +1,7 @@
 ![Kevin Octavio Espiritu Castillo — Full Stack Developer](assets/profile-banner.png)
 
 [![Español](https://img.shields.io/badge/Español-8A93A6?style=for-the-badge&logoColor=white)](https://github.com/Espiritu16/Espiritu16/blob/main/README.md)
-[![English](https://img.shields.io/badge/English-3E85FA?style=for-the-badge&logoColor=white)](https://github.com/Espiritu16/Espiritu16/blob/main/README.en.md)
+[![English](https://img.shields.io/badge/English-F7CD3A?style=for-the-badge&logoColor=white)](https://github.com/Espiritu16/Espiritu16/blob/main/README.en.md)
 
 ## About me
 
