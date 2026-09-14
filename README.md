@@ -5,9 +5,9 @@
 
 ## Sobre mí
 
-Desarrollador Full Stack. Construyo aplicaciones web y APIs REST con **Spring Boot**, **Angular** y **React**, sobre **PostgreSQL** o **MySQL**, y las despliego en **AWS** con Docker y CI/CD.
+Desarrollador Full Stack. Construyo aplicaciones web de frontend a backend: **React** y **Angular** en la interfaz, **Spring Boot** y **Django** con APIs REST en el servidor, sobre **PostgreSQL** o **MySQL**. Las despliego en VPS Linux (Ubuntu, Hostinger) y en **AWS** con Docker y CI/CD.
 
-Trabajo sobre todo en las integraciones que un negocio no puede permitirse que fallen: cobros en línea con **Culqi** y facturación electrónica validada ante **SUNAT** vía Nubefact. Conectar la API es la parte sencilla. La difícil es que la venta siga registrada y el comprobante acabe emitiéndose cuando el proveedor devuelve un error.
+Aplico LLMs con la API de OpenAI y en local con **Ollama** para extraer datos de documentos, y automatizo procesos con **n8n** y Python.
 
 Curso el VIII ciclo de Ingeniería de Sistemas e Informática en la UTP, en tercio superior y con Beca por Excelencia Académica.
 
@@ -22,7 +22,9 @@ Curso el VIII ciclo de Ingeniería de Sistemas e Informática en la UTP, en terc
     <td align="center" width="115"><img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular"><br><sub><b>Angular</b></sub></td>
     <td align="center" width="115"><img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"><br><sub><b>React</b></sub></td>
     <td align="center" width="115"><img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"><br><sub><b>PostgreSQL</b></sub></td>
+    <td align="center" width="115"><img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django"><br><sub><b>Django</b></sub></td>
     <td align="center" width="115"><img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS"><br><sub><b>AWS</b></sub></td>
+    <td align="center" width="115"><img height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu"><br><sub><b>Ubuntu</b></sub></td>
   </tr>
 </table>
 </div>
@@ -33,8 +35,8 @@ Curso el VIII ciclo de Ingeniería de Sistemas e Informática en la UTP, en terc
 
 | Sistema | Stack | Demo |
 | :--- | :---: | :---: |
-| Reservas de canchas con pagos en línea | React · Supabase · Culqi | [Ver](https://canchas.kevin-espiritu.com) |
-| ERP interno con facturación electrónica | Spring Boot · MySQL · Nubefact | Privado |
+| Reservas de canchas deportivas | React · TypeScript · Supabase | [Ver](https://canchas.kevin-espiritu.com) |
+| ERP para una importadora | Spring Boot · MySQL · Nubefact | Privado |
 | Gestión de casos jurídicos | React · TypeScript · Supabase | [Ver](https://legal.kevin-espiritu.com) |
 | Sitio para una consulta de cirugía estética | Astro · TypeScript | [Ver](https://clinica.kevin-espiritu.com) |
 
@@ -54,9 +56,9 @@ De la carrera de Ingeniería de Sistemas en la UTP, en equipo. Cada uno tiene su
 
 </div>
 
-## Desarrollo asistido por agentes
+## IA y automatización
 
-Uso **Claude Code** y **OpenAI Codex** dentro del ciclo de implementación y revisión, con agentes y skills por etapa: planificación, arquitectura, implementación, documentación, revisión de código, seguridad y QA.
+Además de los LLMs en las aplicaciones, uso **Claude Code** y **OpenAI Codex** dentro del ciclo de implementación y revisión, con agentes y skills por etapa: planificación, arquitectura, implementación, documentación, revisión de código, seguridad y QA.
 
 Las pruebas cortan el despliegue: si una falla, el sistema en producción se queda como estaba. La IA forma parte del proceso de ingeniería, no lo sustituye.
 
