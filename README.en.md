@@ -29,7 +29,7 @@ I am in my eighth semester of Systems and Computer Engineering at UTP, in the to
 </table>
 </div>
 
-## In production
+## Professional projects
 
 <div align="center">
 

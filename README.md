@@ -29,7 +29,7 @@ Curso el VIII ciclo de Ingeniería de Sistemas e Informática en la UTP, en terc
 </table>
 </div>
 
-## En producción
+## Proyectos profesionales
 
 <div align="center">
 
