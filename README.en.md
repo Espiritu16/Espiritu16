@@ -35,9 +35,9 @@ I am in my eighth semester of Systems and Computer Engineering at UTP, in the to
 
 | System | Stack | Demo |
 | :--- | :---: | :---: |
-| Sports court booking | React · TypeScript · Supabase | [Open](https://canchas.kevin-espiritu.com) |
+| Sports court booking | React · TypeScript · Supabase | Private |
 | ERP for an importer | Spring Boot · MySQL · Nubefact | Private |
-| Legal case management | React · TypeScript · Supabase | [Open](https://legal.kevin-espiritu.com) |
+| Legal case management | React · TypeScript · Supabase | Private |
 | Site for a cosmetic surgery practice | Astro · TypeScript | [Open](https://clinica.kevin-espiritu.com) |
 
 </div>

@@ -35,9 +35,9 @@ Curso el VIII ciclo de Ingeniería de Sistemas e Informática en la UTP, en terc
 
 | Sistema | Stack | Demo |
 | :--- | :---: | :---: |
-| Reservas de canchas deportivas | React · TypeScript · Supabase | [Ver](https://canchas.kevin-espiritu.com) |
+| Reservas de canchas deportivas | React · TypeScript · Supabase | Privado |
 | ERP para una importadora | Spring Boot · MySQL · Nubefact | Privado |
-| Gestión de casos jurídicos | React · TypeScript · Supabase | [Ver](https://legal.kevin-espiritu.com) |
+| Gestión de casos jurídicos | React · TypeScript · Supabase | Privado |
 | Sitio para una consulta de cirugía estética | Astro · TypeScript | [Ver](https://clinica.kevin-espiritu.com) |
 
 </div>
